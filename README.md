@@ -2,6 +2,7 @@
 Create a travel app to assist traveler with keeping track of their trip
 
 App brainstorming- Travel Buddy:
+
 A. Introduction:
 
 With Travel Buddy, users can effortlessly plan their trips, organize itineraries, discover unique accommodations and activities, and stay informed with real-time updates throughout their journey. Key features include itinerary organization, real-time flight status updates, accommodation bookings with guest reviews and ratings, interactive maps with navigation and nearby attractions, and the ability to share trip details with friends and family. Travel Buddy aims to enhance the travel experience by providing users with all the tools and information they need to plan memorable and stress-free trips.
